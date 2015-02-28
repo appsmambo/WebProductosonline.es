@@ -1,0 +1,69 @@
+a, a:hover {
+	text-decoration:none
+}
+#cookies-alert {
+	background:#d3d6d0;
+	color:#fff;
+	font-size:12px;
+	padding:10px 14px;
+	text-align:center
+}
+#cookies-alert img {
+	cursor:pointer;
+	margin-left:12px
+}
+p.te-llamamos {
+	margin:10px 0 0;
+	text-align:center
+}
+p.te-llamamos strong {
+	font-size:115%
+}
+a.te-llamamos {
+	color:#000
+}
+p.links {
+	color:#693d80;
+	font-size:110%;
+	font-weight:bold;
+	margin:10px 0 0
+}
+p.links a {
+	color:#693d80
+}
+p.links span {
+	display:inline-block;
+	margin:0 6px
+}
+p.telefono {
+	color:#494645;
+	font-size:26px
+}
+p.menu a {
+	color:#494645;
+	font-size:16px;
+	margin:0 0 0 40px
+}
+
+.fondo-home {
+	background:url(../images/home.jpg) no-repeat left top;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover
+}
+.fondo-home h2 {
+	font-size:40px
+}
+.fondo-home small {
+	font-size:40%;
+	line-height:25px;
+	display:block;
+	color:#333
+}
+
+@media(max-width:992px){
+	p.menu a {
+		margin-left:24px
+	}
+}
