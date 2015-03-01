@@ -1,6 +1,9 @@
 a, a:hover {
 	text-decoration:none
 }
+small {
+	display:block
+}
 #cookies-alert {
 	background:#d3d6d0;
 	color:#fff;
@@ -58,8 +61,22 @@ p.menu a {
 .fondo-home small {
 	font-size:40%;
 	line-height:25px;
-	display:block;
 	color:#333
+}
+.borde-circulo {
+	border:1px solid #693e80;
+	border-radius:50%;
+	width:116px;
+	height:116px;
+	-webkit-transition:all 1s ease-in-out;
+	-moz-transition:all 1s ease-in-out;
+	-o-transition:all 1s ease-in-out;
+	transition:all 1s ease-in-out
+}
+.borde-circulo:hover {
+	/*width:132px;
+	height:132px;
+	border-width:2px*/
 }
 
 @media(max-width:992px){
