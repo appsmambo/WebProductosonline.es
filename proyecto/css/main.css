@@ -63,6 +63,30 @@ p.menu a {
 	line-height:25px;
 	color:#333
 }
+.fondo-azul {
+	background-color:#0075be;
+	padding:24px 0
+}
+.fondo-azul .fs-16 {
+	font-size:16px
+}
+.fondo-azul .fs-14 {
+	font-size:14px
+}
+.fondo-azul .fs-12 {
+	font-size:12px
+}
+.borde-circulo-blanco {
+	border-radius:50%;
+	width:50px;
+	height:50px;
+	margin:0;
+	border:1px solid #fff;
+	color:#fff;
+	text-align:center;
+	font-size:34px;
+	line-height:48px
+}
 .borde-circulo {
 	border:1px solid #693e80;
 	border-radius:50%;
@@ -77,6 +101,9 @@ p.menu a {
 	/*width:132px;
 	height:132px;
 	border-width:2px*/
+}
+.blanco {
+	color:#fff
 }
 
 @media(max-width:992px){
