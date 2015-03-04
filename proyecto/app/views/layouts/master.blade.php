@@ -128,7 +128,33 @@
 			</header>
 			@yield('contenido')
 			<footer>
-
+				<p class="strong">
+					<a href="#">
+						Blog
+					</a>
+					|
+					<a href="#">
+						Contacto
+					</a>
+					|
+					<a href="#">
+						Soporte
+					</a>
+				</p>
+				<hr>
+				<p>
+					<a href="#">
+						Ayuda
+					</a>
+					|
+					<a href="#">
+						Términos y condiciones de uso
+					</a>
+					|
+					<a href="#">
+						Privacidad y Cookies
+					</a>
+				</p>
 			</footer>
 		</section>
 			

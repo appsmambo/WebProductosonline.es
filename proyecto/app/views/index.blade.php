@@ -129,6 +129,124 @@
 	"sin necesidad de conocimientos técnicos"
 </h2>
 <p class="hidden-xs"><br><br></p>
-
-
+<section class="row vende-lo-que-quieras">
+	<div class="col-sm-6">
+		<img src="{{url()}}/images/vende-lo-que-quieras.png" alt="" class="center-block img-responsive">
+	</div>
+	<div class="col-sm-6">
+		<h2>
+			<span class="hidden-xs"><br><br></span>
+			Vende lo que quieras online
+			<br>
+			<small>
+				en cualquier momento y en cualquier lugar
+			</small>
+		</h2>
+		<ul class="morado">
+			<li>
+				<span>Funciona desde todos los dispositivos</span>
+			</li>
+			<li>
+				<span>Siempre innovando</span>
+			</li>
+			<li>
+				<span>Aumenta tus ventas</span>
+			</li>
+		</ul>
+	</div>
+</section>
+<p><br><span class="hidden-xs"><br></span></p>
+<h2 class="text-center">
+	Te ayudamos a darte a conocer en internet.
+</h2>
+<p><br><span class="hidden-xs"><br></span></p>
+<section class="row">
+	<div class="col-sm-5 text-center">
+		<img src="{{url()}}/images/logos-buscadores.png" alt="" class="img-responsive center-block">
+		<br>
+		Optimización de palabras clave <span class="caret"></span>
+	</div>
+	<div class="col-sm-7 text-center">
+		<div class="row">
+			<div class="col-sm-6">
+				<img src="{{url()}}/images/iconos/estadisticas.png" alt="" class="img-responsive center-block">
+				<br>
+				Estadísticas <span class="caret"></span>
+			</div>
+			<div class="col-sm-6">
+				<img src="{{url()}}/images/iconos/localizacion.png" alt="" class="img-responsive center-block">
+				<br>
+				Localización <span class="caret"></span>
+			</div>
+		</div>
+	</div>
+</section>
+<p><br></p>
+<section class="row fondo-morado">
+	<div class="col-sm-5 borde-derecha">
+		<p class="text-center">
+			Te encontrarán en todos los buscadores. La optimización de palabras clave y funciones amigables SEO harán que Google reconozca tu página.
+		</p>
+	</div>
+	<div class="col-sm-7">
+		<div class="row">
+			<div class="col-sm-6 borde-derecha">
+				<p class="text-center">
+					Gracias a Google Analytics podrás ver las estadísticas de tus campañas de publicidad (nº visitas, nº clics, etc.)
+				</p>
+			</div>
+			<div class="col-sm-6">
+				<p class="text-center">
+					Tendrá la posibilidad de ubicar su tienda en un mapa interactivo dentro de su web.
+				</p>
+			</div>
+		</div>
+	</div>
+</section>
+<p><br><span class="hidden-xs"><br></span></p>
+<h2 class="text-center">
+	Controla tu negocio online
+</h2>
+<p><br><span class="hidden-xs"><br></span></p>
+<section class="row row-eq-height controla-tu-negocio">
+	<div class="col-sm-7">
+		<div class="row row-eq-height">
+			<div class="col-sm-5 borde">
+				<p>
+					<span class="hidden-xs"><br></span>
+					<img src="{{url()}}/images/iconos/panel.png" alt="" class="img-responsive center-block">
+					<br>
+					Panel Admin en la nube
+					<br>
+					<span>Modifica y actualiza tus productos desde cualquier sitio.</span>
+				</p>
+			</div>
+			<div class="col-sm-offset-1 col-sm-5 borde">
+				<p>
+					<span class="hidden-xs"><br></span>
+					<img src="{{url()}}/images/iconos/redes-sociales.png" alt="" class="img-responsive center-block">
+					<br>
+					Comparte en redes sociales
+					<br>
+					<span>Ayuda a la gestión de la reputación online de tu empresa.</span>
+				</p>
+			</div>
+		</div>
+	</div>
+	<div class="col-sm-5 borde">
+		<p>
+			<span class="hidden-xs"><br></span>
+			<img src="{{url()}}/images/iconos/pedidos.png" alt="" class="img-responsive center-block">
+			<br>
+			Envía y controla tus pedidos online
+			<br>
+			<span>desde cualquier lugar. Solo necesitas conexión a internet.</span>
+		</p>
+	</div>
+</section>
+<p><br><span class="hidden-xs"><br></span></p>
+<h2 class="text-center">
+	solo necesitas conexión a internet
+</h2>
+<p><br><span class="hidden-xs"><br></span></p>
 @stop
