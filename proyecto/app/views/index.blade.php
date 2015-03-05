@@ -66,9 +66,12 @@
 	</div>
 </section>
 <p><br></p>
-<p>
+<h5 class="text-center">
+	<br>
 	Confiamos en nuestro servicio, por eso queremos que lo pruebes antes de contratarlo.
-</p>
+	<br><br>
+	<img src="{{url()}}/images/iconos/icono.jpg" alt="" class="center-block">
+</h5>
 <p><br></p>
 <section class="row fondo-azul">
 	<div class="col-sm-10 col-sm-offset-1">
